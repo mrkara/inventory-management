@@ -52,7 +52,7 @@ Smart contracts are implemented in [Rust](https://www.rust-lang.org/) + [Casper 
 
 ### ❓Have questions?
 
-Go to the `#dev-discussion` channel [on Discord](https://discord.gg/casperblockchain)
+Go to the `#dev-discussion` channel [on Discord](https://discord.gg/caspernetwork)
 
 ### 🪦 Errors ?
 
